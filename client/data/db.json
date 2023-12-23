@@ -1,0 +1,23 @@
+{
+  "blogs": [
+    {
+      "title": "Blog 3",
+      "body": "body 3",
+      "author": "author 3",
+      "id": 3
+    },
+    {
+      "title": "Cool Blog",
+      "body": "This is a cool blog!",
+      "author": "Ry135453",
+      "id": 4
+    },
+    {
+      "title": "I learned React",
+      "body": "Yay",
+      "author": "Maveson2020",
+      "id": 5
+    }
+  ]
+}
+
