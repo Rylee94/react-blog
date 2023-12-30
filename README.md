@@ -1,6 +1,6 @@
 # React Blog App
 
-This project is a React-based blog application that I developed to enhance my skills and gain hands-on experience with React. The inspiration and guidance for this project were derived from The Net Ninja's [React Tutorial for Beginners](https://www.youtube.com/watch?v=eao7ABGFUXs&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=16) series on YouTube.
+This project is a React-based blog application that I developed to enhance my skills and gain hands-on experience with React. The inspiration and guidance for this project were derived from The Net Ninja.
 
 ## Overview
 
@@ -32,6 +32,5 @@ The React Blog App allows users to create, read, update, and delete blog posts. 
 
 ## Acknowledgments
 
-Special thanks to [The Net Ninja](https://netninja.dev/) for providing excellent tutorials and resources on React development.
+Thanks to [The Net Ninja](https://netninja.dev/) for providing excellent tutorials and resources on React development.
 
-Feel free to explore, modify, and use this project as a reference for your own learning journey in React!
